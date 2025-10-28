@@ -1,6 +1,4 @@
-menambahkan satu algoritma baru ke proyek CNN yang udah ada supaya lebih efisien, cepat, atau akurat.
-ImageDataGenerator adalah algoritma augmentasi data dari tensorflow.keras.preprocessing.image.
-Ia membuat variasi gambar baru secara acak (rotasi, zoom, flip, dsb) dari dataset asli agar model lebih “cerdas” dan tidak overfitting.
+Dalam proyek ini, saya menambahkan beberapa algoritma baru yaitu Batch Normalization, Data Augmentation, serta algoritma callback seperti EarlyStopping, ReduceLROnPlateau, dan ModelCheckpoint. Tujuan penambahan ini adalah untuk meningkatkan performa model CNN agar lebih stabil, mencegah overfitting, serta mempercepat konvergensi selama proses pelatihan. Dengan adanya algoritma tambahan tersebut, akurasi model menjadi lebih baik dan hasil klasifikasi gambar daun lebih optimal.
 
 # Klasifikasi-Daun-Herbal
 
